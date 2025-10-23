@@ -5,4 +5,4 @@ This experiment demonstrates text-to-image generation using the **Stable Diffusi
 
 ## **Output Image**
 
-![Generated Moon Image](generated_image.png)
+![Generated Moon Image](output.png)
